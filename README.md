@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/22940dev/22940dev/blob/main/Developer.gif" width="1000px">
+### Hi there <img src="https://github.com/22940dev/22940dev/blob/main/Developer.gif" width="600px">
 ![]
 
 
